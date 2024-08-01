@@ -1,0 +1,27 @@
+[{
+  "id" : 1000,
+  "firstName" : "Codi",
+  "lastName" : "Clouston",
+  "email" : "cclouston@cyberdyne.com",
+  "phone" : "456-555-0987",
+  "gender" : "M"
+},
+{
+  "id" : 1001,
+  "firstName" : "Jolie",
+  "lastName" : "Viall",
+  "email" : "jviall@cyberdyne.com",
+  "phone" : "456-555-0999",
+  "gender" : "F"
+},
+{
+  "id" : 1002,
+  "firstName" : "Duffie",
+  "lastName" : "Wilcher",
+  "email" : "dwilcher@cyberdyne.com",
+  "phone" : "456-555-0678",
+  "gender" : "M"
+}]
+
+
+
